@@ -6,7 +6,7 @@ int main(void) {
     scanf("%d", &num);
     if (num % 2 == 0) {
         printf("The number is 0");
-        }
+    }
         else {
             printf("The number is 1");
         }
